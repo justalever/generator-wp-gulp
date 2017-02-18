@@ -2,7 +2,7 @@
   "name": "generator-wp-gulp",
   "version": "0.0.0",
   "description": "A WordPress starter theme that uses Sass, Gulp, and Node",
-  "homepage": "https://web-crunch.com/",
+  "homepage": "https://github.com/justalever/generator-wp-gulp",
   "author": {
     "name": "Andy Leverenz",
     "email": "andy@justalever.com",
